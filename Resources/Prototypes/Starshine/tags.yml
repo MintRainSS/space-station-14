@@ -13,6 +13,9 @@
   id: ChainSwordHandle
 
 - type: Tag
+  id: ClothingNeckSharkBrownPin
+
+- type: Tag
   id: Clothing
 
 - type: Tag
@@ -80,6 +83,27 @@
 
 - type: Tag
   id: Welder
+
+- type: Tag
+  id: PlushieSharkGold
+
+- type: Tag
+  id: PlushieSharkBurn
+
+- type: Tag
+  id: PlushieSharkGreen
+
+- type: Tag
+  id: PlushieSharkPurple
+
+- type: Tag
+  id: PlushieSharkBrown
+
+- type: Tag
+  id: PlushieSharkOrange
+
+- type: Tag
+  id: PlushieSharkBlack
 
 - type: Tag
   id: Slime
