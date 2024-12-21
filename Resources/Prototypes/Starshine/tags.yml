@@ -16,6 +16,33 @@
   id: ClothingNeckSharkBrownPin
 
 - type: Tag
+  id: ClothingNeckSharkGoldPin
+
+- type: Tag
+  id: ClothingNeckSharkOrangePin
+
+- type: Tag
+  id: ClothingNeckSharkBurnPin
+
+- type: Tag
+  id: ClothingNeckSharkBluePin
+
+- type: Tag
+  id: ClothingNeckSharkGreyPin
+
+- type: Tag
+  id: ClothingNeckSharkBlackPin
+
+- type: Tag
+  id: ClothingNeckSharkGreenPin
+
+- type: Tag
+  id: ClothingNeckSharkPurplePin
+
+- type: Tag
+  id: ClothingNeckSharkPinkPin
+
+- type: Tag
   id: Clothing
 
 - type: Tag

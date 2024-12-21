@@ -1,6 +1,5 @@
 - type: entity
   parent: ClothingNeckPinBase
-  description: Its shark pin.
   id: ClothingNeckPinStarshineBase
   abstract: true
   components:
@@ -15,6 +14,7 @@
   parent: ClothingNeckPinStarshineBase
   id: ClothingNeckSharkBrownPin
   name: brown shark pin.
+  description: Its shark pin.
   components:
   - type: Sprite
     state: shark-brown-pin
@@ -22,7 +22,7 @@
     equippedPrefix: sharkbrownpin
 
 - type: entity
-  parent: ClothingNeckPinStarshineBase
+  parent: ClothingNeckSharkBrownPin
   id: ClothingNeckSharkPinkPin
   name: pink shark pin.
   components:
@@ -32,7 +32,7 @@
     equippedPrefix: sharkpinkpin
 
 - type: entity
-  parent: ClothingNeckPinStarshineBase
+  parent: ClothingNeckSharkBrownPin
   id: ClothingNeckSharkGoldPin
   name: gold shark pin.
   components:
@@ -42,7 +42,7 @@
     equippedPrefix: sharkgoldpin
 
 - type: entity
-  parent: ClothingNeckPinStarshineBase
+  parent: ClothingNeckSharkBrownPin
   id: ClothingNeckSharkOrangePin
   name: orange shark pin.
   components:
@@ -52,7 +52,7 @@
     equippedPrefix: sharkorangepin
 
 - type: entity
-  parent: ClothingNeckPinStarshineBase
+  parent: ClothingNeckSharkBrownPin
   id: ClothingNeckSharkBurnPin
   name: burn shark pin.
   components:
@@ -62,7 +62,7 @@
     equippedPrefix: sharkburnpin
 
 - type: entity
-  parent: ClothingNeckPinStarshineBase
+  parent: ClothingNeckSharkBrownPin
   id: ClothingNeckSharkBluePin
   name: blue shark pin.
   components:
@@ -72,7 +72,7 @@
     equippedPrefix: sharkbluepin
 
 - type: entity
-  parent: ClothingNeckPinStarshineBase
+  parent: ClothingNeckSharkBrownPin
   id: ClothingNeckSharkGreyPin
   name: grey shark pin.
   components:
@@ -82,7 +82,7 @@
     equippedPrefix: sharkgreypin
 
 - type: entity
-  parent: ClothingNeckPinStarshineBase
+  parent: ClothingNeckSharkBrownPin
   id: ClothingNeckSharkBlackPin
   name: black shark pin.
   components:
@@ -92,7 +92,7 @@
     equippedPrefix: sharkblackpin
 
 - type: entity
-  parent: ClothingNeckPinStarshineBase
+  parent: ClothingNeckSharkBrownPin
   id: ClothingNeckSharkGreenPin
   name: green shark pin.
   components:
@@ -102,7 +102,7 @@
     equippedPrefix: sharkgreenpin
 
 - type: entity
-  parent: ClothingNeckPinStarshineBase
+  parent: ClothingNeckSharkBrownPin
   id: ClothingNeckSharkPurplePin
   name: purple shark pin.
   components:
