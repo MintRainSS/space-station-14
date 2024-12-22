@@ -1,6 +1,7 @@
 ﻿- type: entity
   parent: BasePlushie
   id: PlushieSharkStarshineBase
+  abstract: true
   components:
   - type: Sprite
     sprite: Starshine/Objects/Fun/sharkplush.rsi
