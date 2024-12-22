@@ -1,11 +1,30 @@
 ﻿- type: entity
-  parent: PlushieSharkBlue
+  parent: BasePlushie
   id: PlushieSharkStarshineBase
   components:
   - type: Sprite
     sprite: Starshine/Objects/Fun/sharkplush.rsi
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/Items/Toys/rawr.ogg
+  - type: EmitSoundOnTrigger
+    sound:
+      path: /Audio/Items/Toys/rawr.ogg
+  - type: EmitSoundOnUse
+    sound:
+      path: /Audio/Items/Toys/rawr.ogg
+  - type: EmitSoundOnActivate
+    sound:
+      path: /Audio/Items/Toys/rawr.ogg
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      path: /Audio/Items/Toys/rawr.ogg
   - type: Item
     storedRotation: -90
+  - type: Tag
+    tags:
+      - Payload
     
 - type: entity
   parent: PlushieSharkStarshineBase
