@@ -38,9 +38,30 @@
 
 - type: Tag
   id: ClothingNeckSharkPurplePin
+  
+- type: Tag
+  id: ClothingNeckUkrainScarf
+  
+- type: Tag
+  id: ClothingNeckRussianScarf
 
 - type: Tag
   id: ClothingNeckSharkPinkPin
+  
+- type: Tag
+  id: ClothingNeckZPin
+  
+- type: Tag
+  id: ClothingNeckOPin
+  
+- type: Tag
+  id: ClothingNeckVPin
+  
+- type: Tag
+  id: ClothingNeckRussianPin
+  
+- type: Tag
+  id: ClothingNeckUkrainPin
 
 - type: Tag
   id: Clothing
@@ -89,6 +110,9 @@
 
 - type: Tag
   id: DurandArmor
+  
+- type: Tag
+  id: VendingMachineGoida
 
 - type: Tag
   id: GygaxLArm
@@ -104,6 +128,12 @@
 
 - type: Tag
   id: GygaxArmor
+  
+- type: Tag
+  id: RussianFlag
+  
+- type: Tag
+  id: UkrainFlag
 
 - type: Tag
   id: SawElectric

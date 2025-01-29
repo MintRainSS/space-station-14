@@ -1,0 +1,5 @@
+- type: localizedDataset
+  id: GoidaOMatGoodbyes
+  values:
+    prefix: thankyou-goida-
+    count: 4

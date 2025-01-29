@@ -1,0 +1,11 @@
+advertisement-goida-1 = И помните, ни слова по русски!
+advertisement-goida-2 = ЗА НАШИХ!
+advertisement-goida-3 = Нет времени обьяснять! Скорее подписывай контракт!
+advertisement-goida-4 = ГОЙДА!
+advertisement-goida-5 = Специальной военной операции не существует, это миф.
+advertisement-goida-6 = Все же любят Путина?
+advertisement-goida-7 = ZOV!
+thankyou-goida-1 = Спасибо, что подписали контракт!
+thankyou-goida-2 = Слава нации Z!
+thankyou-goida-3 = А вы, патриот?
+thankyou-goida-4 = Нет времени обьяснять! Скорее подписывай контракт!

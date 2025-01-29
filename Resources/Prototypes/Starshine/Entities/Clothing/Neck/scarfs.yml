@@ -1,0 +1,21 @@
+- type: entity
+  parent: ClothingScarfBase
+  id: ClothingNeckUkrainScarf
+  name: ukrain scarf
+  description: Oni idut!
+  components:
+  - type: Sprite
+    sprite: Starshine/Clothing/Neck/Scarfs/ukrain.rsi
+  - type: Clothing
+    sprite: Starshine/Clothing/Neck/Scarfs/ukrain.rsi
+    
+- type: entity
+  parent: ClothingNeckUkrainScarf
+  id: ClothingNeckRussianScarf
+  name: russian scarf
+  description: Slava nacii Z!
+  components:
+  - type: Sprite
+    sprite: Starshine/Clothing/Neck/Scarfs/russian.rsi
+  - type: Clothing
+    sprite: Starshine/Clothing/Neck/Scarfs/russian.rsi

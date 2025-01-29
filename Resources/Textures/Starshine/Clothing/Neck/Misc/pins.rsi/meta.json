@@ -76,6 +76,41 @@
         {
             "name": "sharkgreypin-equipped-NECK",
             "directions": 4
+	    },
+		{
+            "name": "russian-pin"
+        },
+		{
+            "name": "russianpin-equipped-NECK",
+            "directions": 4
+	    },
+		{
+            "name": "ukrain-pin"
+        },
+		{
+            "name": "ukrainpin-equipped-NECK",
+            "directions": 4
+	    },
+		{
+            "name": "Z-pin"
+        },
+		{
+            "name": "Zpin-equipped-NECK",
+            "directions": 4
+	    },
+		{
+            "name": "O-pin"
+        },
+		{
+            "name": "Opin-equipped-NECK",
+            "directions": 4
+	    },
+	    {
+            "name": "V-pin"
+        },
+		{
+            "name": "Vpin-equipped-NECK",
+            "directions": 4
         }
     ]
 }

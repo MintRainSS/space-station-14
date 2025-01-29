@@ -1,0 +1,28 @@
+- type: entity
+  parent: BaseSign
+  id: StarshineBaseFlag
+  abstract: true
+  components:
+  - type: WallMount
+    arc: 360
+  - type: Sprite
+    drawdepth: WallMountedItems
+    sprite: Starshine/Structures/Wallmounts/flags.rsi
+
+- type: entity
+  parent: StarshineBaseFlag
+  id: RussianFlag
+  name: russian flag
+  description: Holy mother russian!
+  components:
+  - type: Sprite
+    state: russian_flag
+
+- type: entity
+  parent: StarshineBaseFlag
+  id: UkrainFlag
+  name: ukrain flag
+  description: Where did this come from?
+  components:
+  - type: Sprite
+    state: ukrain_flag

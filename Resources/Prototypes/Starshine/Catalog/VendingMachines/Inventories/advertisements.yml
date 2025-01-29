@@ -1,0 +1,5 @@
+- type: localizedDataset
+  id: GoidaVendAds
+  values:
+    prefix: advertisement-goida-
+    count: 7

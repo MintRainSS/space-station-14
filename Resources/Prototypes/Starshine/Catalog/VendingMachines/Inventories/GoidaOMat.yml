@@ -1,0 +1,13 @@
+- type: vendingMachineInventory
+  id: GoidaOmatInventory
+  startingInventory:
+    ClothingNeckZPin: 3
+    ClothingNeckOPin: 3
+    ClothingNeckVPin: 3
+    ClothingNeckRussianPin: 3
+    ClothingNeckRussianScarf: 5
+  contrabandInventory:
+    ClothingNeckUkrainPin: 1
+    ClothingNeckUkrainScarf: 3
+  emaggedInventory:
+    

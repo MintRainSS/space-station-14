@@ -1,0 +1,30 @@
+- type: entity
+  parent: VendingMachine
+  id: VendingMachineGoida
+  name: Goidaomat
+  description: Goida!
+  components:
+  - type: VendingMachine
+    pack: GoidaOmatInventory
+    dispenseOnHitChance: 0.25
+    dispenseOnHitThreshold: 2
+    offState: off
+    brokenState: broken
+    normalState: normal-unshaded
+    ejectState: eject-unshaded
+    denyState: deny-unshaded
+  - type: Advertise
+    pack: GoidaVendAds
+  - type: SpeakOnUIClosed
+    pack: GoidaOMatGoodbyes
+  - type: Speech
+  - type: Sprite
+    sprite: Starshine/Structures/Machines/VendingMachines/goida.rsi
+    layers:
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.Base"]
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.BaseUnshaded"]
+      shader: unshaded
+    - state: panel
+      map: ["enum.WiresVisualLayers.MaintenancePanel"]

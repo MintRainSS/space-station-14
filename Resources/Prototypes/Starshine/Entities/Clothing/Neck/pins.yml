@@ -110,3 +110,58 @@
     state: shark-purple-pin
   - type: Clothing
     equippedPrefix: sharkpurplepin
+    
+- type: entity
+  parent: ClothingNeckSharkBrownPin
+  id: ClothingNeckZPin
+  name: letter Z pin
+  description: Its letter Z pin.
+  components:
+  - type: Sprite
+    state: Z-pin
+  - type: Clothing
+    equippedPrefix: Zpin
+
+- type: entity
+  parent: ClothingNeckSharkBrownPin
+  id: ClothingNeckOPin
+  name: letter O pin
+  description: Its letter O pin.
+  components:
+  - type: Sprite
+    state: O-pin
+  - type: Clothing
+    equippedPrefix: Opin
+    
+- type: entity
+  parent: ClothingNeckSharkBrownPin
+  id: ClothingNeckVPin
+  name: letter V pin
+  description: Its letter V pin.
+  components:
+  - type: Sprite
+    state: V-pin
+  - type: Clothing
+    equippedPrefix: Vpin
+    
+- type: entity
+  parent: ClothingNeckSharkBrownPin
+  id: ClothingNeckRussianPin
+  name: russian pin
+  description: Its Russian pin.
+  components:
+  - type: Sprite
+    state: russian-pin
+  - type: Clothing
+    equippedPrefix: russianpin
+    
+- type: entity
+  parent: ClothingNeckSharkBrownPin
+  id: ClothingNeckUkrainPin
+  name: ukrain pin
+  description: Its Ukrain pin.
+  components:
+  - type: Sprite
+    state: ukrain-pin
+  - type: Clothing
+    equippedPrefix: ukrainpin
