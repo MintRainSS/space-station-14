@@ -19,6 +19,9 @@
         reagents:
         - ReagentId: Water
           Quantity: 100
+  - type: Spillable
+    solution: spray
+    spillWhenThrown: False
   - type: RefillableSolution
     solution: spray
   - type: DrainableSolution
